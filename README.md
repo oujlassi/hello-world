@@ -1,2 +1,5 @@
 # hello-world
-it's my first repository
+
+Hi humans beings,
+Oussama here, I like Symfony, Node.js, Polymer and theoretical physics.
+
